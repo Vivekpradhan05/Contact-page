@@ -4,5 +4,7 @@ This is a React project created using Vite.
 
 ## Output
 
-![Output Screenshot](./screenshots/output.png)
+
+![App Screenshot](./screenshots/output.png)
+
 
